@@ -1,6 +1,5 @@
 {
     "rewrites": [
-        { "source": "/", "destination": "https://api.openai.com" },
         { 
             "source": "/chat",
             "destination": "https://chat-gpt-next-pearl-theta.vercel.app"
