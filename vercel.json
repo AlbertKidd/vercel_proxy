@@ -1,5 +1,5 @@
 {
-    "rewrites": [
+    "redirects": [
         { 
             "source": "/chat",
             "destination": "https://chat-gpt-next-pearl-theta.vercel.app"
