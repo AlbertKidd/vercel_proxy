@@ -14,7 +14,7 @@
             "source": "/wechat/:match*",
             "destination": "https://cnb4kk9jq9.hk.aircode.run/hello/:match*"
         }
-    ]
+    ],
     "github": {
         "silent": true
     }
