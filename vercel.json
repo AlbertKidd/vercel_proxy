@@ -15,7 +15,7 @@
             "destination": "https://sflet7.laf.run/wechatGPT:match*"
         },
         { "source": "/openai", "destination": "https://api.openai.com" },
-        { "source": "/openai/:match", "destination": "https://api.openai.com/:match" },
+        { "source": "/openai/:match", "destination": "https://api.openai.com/:match" }
     ],
     "github": {
         "silent": true
