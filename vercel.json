@@ -12,7 +12,7 @@
     "rewrites": [
         { 
             "source": "/wechat:match*",
-            "destination": "https://cnb4kk9jq9.hk.aircode.run/hello:match*"
+            "destination": "https://sflet7.laf.run/wechatGPT:match*"
         }
     ],
     "github": {
